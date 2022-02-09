@@ -1,0 +1,12 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*html": "html"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html",
+    },
+    "emmet.extensionsPath": [
+        " \"emmet.includeLanguages\": {\"django-html\":\"html\"),"
+    ]
+}
